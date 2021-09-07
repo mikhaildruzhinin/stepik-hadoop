@@ -22,5 +22,5 @@ potentia	1
 
 ## Запуск
 ```
-sh sun.sh
+sh run.sh
 ```
