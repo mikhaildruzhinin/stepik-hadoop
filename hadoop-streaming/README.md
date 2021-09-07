@@ -3,18 +3,24 @@
 
 Sample Input:
 
-```Vivere est cogitare
+```
+Vivere est cogitare
 Vivere militate est
-Scientia potentia est```
+Scientia potentia est
+```
 
 Sample Output:
 
-```Scientia	1
+```
+Scientia	1
 Vivere	2
 cogitare	1
 est	3
 militate	1
-potentia	1```
+potentia	1
+```
 
 ## Запуск
-```sh sun.sh```
+```
+sh sun.sh
+```
