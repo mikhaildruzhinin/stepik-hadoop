@@ -12,15 +12,12 @@ de mortuis aut bene aut nihil
 Sample Output:
 
 ```
-nihil	1
-aut	2
-Caesar	1
-aut	2
-nihil	1
-aut	2
-de	1
-bene	1
+aut	6
 mortuis	1
+bene	1
+Caesar	1
+de	1
+nihil	2
 ```
 
 ## Запуск
